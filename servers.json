@@ -1,1 +1,14 @@
-
+{
+  "version": 1,
+  "updated": "2026-10-22T09:42:28.340688Z",
+  "servers": [
+    {
+      "name": "Premium Outline",
+      "link": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozeXh2cGcxZnpkaXR4MHcy@kpvip.kpchannel.cc.cd:57459?type=tcp&headerType=none#Premium%20Outline"
+    },
+    {
+      "name": "Premium Trojan",
+      "link": "trojan://3yxvpg1fzditx0w2@kpvip.kpchannel.cc.cd:47888?type=tcp&headerType=none#Premium%20Trojan"
+    }
+  ]
+}
